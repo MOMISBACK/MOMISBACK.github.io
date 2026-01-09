@@ -1,6 +1,4 @@
-**CoTransduct**
-
-Terms of Use
+Terms of Use of **CoTransduct**
 
 Last updated: 1/9/2026
 
